@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.55624be6.css",
+    "main.js": "/portfolio/static/js/main.88533155.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/portfolio/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/Hetal Chavda.pdf": "/portfolio/static/media/Hetal Chavda.b3a50378f6c00be8d5fb.pdf",
+    "static/media/word.png": "/portfolio/static/media/word.c2687977bddcc4a12f1c.png",
+    "static/media/avataaars.jpeg": "/portfolio/static/media/avataaars.b6618df54f1f284585d8.jpeg",
+    "static/media/communication.png": "/portfolio/static/media/communication.591627bee3180fe9eb47.png",
+    "static/media/powerpoint.jpg": "/portfolio/static/media/powerpoint.8cf7a603caf00bcdfdd4.jpg",
+    "static/media/excel.jpg": "/portfolio/static/media/excel.2cb350f151e45756ba0c.jpg",
+    "static/media/whatsapp.png": "/portfolio/static/media/whatsapp.a858530fe23752d81bc6.png",
+    "static/media/solve.png": "/portfolio/static/media/solve.dffb2d51c26ad821af1d.png",
+    "static/media/2021 Twitter logo - black.png": "/portfolio/static/media/2021 Twitter logo - black.9685c410a6499b9ebc16.png",
+    "static/media/icon.png": "/portfolio/static/media/icon.c4612d84f1f53fa19e69.png",
+    "static/media/hr.jpg": "/portfolio/static/media/hr.08753e337b3786c8b58d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.55624be6.css.map": "/portfolio/static/css/main.55624be6.css.map",
+    "main.88533155.js.map": "/portfolio/static/js/main.88533155.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/portfolio/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55624be6.css",
+    "static/js/main.88533155.js"
+  ]
+}
